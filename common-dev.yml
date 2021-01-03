@@ -24,6 +24,6 @@ limit:
     count: 100
   
 email:
-  ## 10分钟
+  ## 10秒钟
   code:
      expireTime: 10
