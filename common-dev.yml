@@ -18,8 +18,11 @@ spring:
     
     
 limit:
-  ## 一秒钟一次
-  register: 1
+ 
+  register:
+    ## 一分钟100次
+    interval: 1
+    count: 100
   
 email:
   ## 10分钟
