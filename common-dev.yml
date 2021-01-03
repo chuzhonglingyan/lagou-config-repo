@@ -20,3 +20,8 @@ spring:
 limit:
   ## 一秒钟一次
   register: 1
+  
+email:
+  ## 10分钟
+  code:
+     expireTime: 600
