@@ -18,7 +18,6 @@ spring:
     
     
 limit:
- 
   register:
     ## 一分钟100次
     interval: 1
