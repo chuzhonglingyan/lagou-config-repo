@@ -26,4 +26,4 @@ limit:
 email:
   ## 10秒钟
   code:
-     expireTime: 10
+     expireTime: 60
